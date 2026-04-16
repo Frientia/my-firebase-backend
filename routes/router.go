@@ -30,7 +30,7 @@ func SetupRouter() *gin.Engine {
 	{
 		// Health check
 		v1.GET("/health", func(c *gin.Context) {
-			c.JSON(200, gin.H{"status": "ok", "service": "gin-firebase-backend"})
+			c.JSON(200, gin.H{"status": "ok", "service": "my-firebase-backend"})
 		})
 
 		// Auth routes (public)
