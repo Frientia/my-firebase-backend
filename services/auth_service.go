@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Frientia/gin-firebase-backend/config"
-	"github.com/Frientia/gin-firebase-backend/models"
-	"github.com/Frientia/gin-firebase-backend/repositories"
+	"github.com/Frientia/my-firebase-backend/config"
+	"github.com/Frientia/my-firebase-backend/models"
+	"github.com/Frientia/my-firebase-backend/repositories"
 	"github.com/golang-jwt/jwt/v5"
 	"gorm.io/gorm"
 )

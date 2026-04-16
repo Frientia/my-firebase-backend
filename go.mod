@@ -1,4 +1,4 @@
-module github.com/frientia/my-firebase-backend
+module github.com/Frientia/my-firebase-backend
 
 go 1.26.1
 
