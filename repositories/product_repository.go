@@ -1,8 +1,8 @@
 package repositories
 
 import (
-	"github.com/Frientia/gin-firebase-backend/config"
-	"github.com/Frientia/gin-firebase-backend/models"
+	"github.com/Frientia/my-firebase-backend/config"
+	"github.com/Frientia/my-firebase-backend/models"
 )
 
 // ProductRepository bertugas mengelola data produk
